@@ -5,7 +5,7 @@ import lombok.Data;
 import lombok.ToString;
 
 /**
- * @author Mr.M
+ * @author wangjie
  * @version 1.0
  * @description 分页查询分页参数
  * @date 2023/2/11 15:33
